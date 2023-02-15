@@ -1,0 +1,1 @@
+showing battery percentage through method channel
